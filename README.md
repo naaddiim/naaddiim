@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naaddiim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP and Laravel
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nadim@mhs.mdp.ac.id xdxd
 
